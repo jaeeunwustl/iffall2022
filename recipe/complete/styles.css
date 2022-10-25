@@ -1,0 +1,106 @@
+html{
+    font-family: 'Archivo', sans-serif;
+    
+    
+    background-color: rgb(250, 226, 215);
+   
+}
+body{
+    width:70%;
+    margin:auto;
+    line-height: 1.6rem;
+    font-size:large;
+    margin-bottom:7%;
+}
+header{
+    font-family: 'Archivo Narrow', sans-serif;
+font-family: 'Caveat', cursive;
+    background-image: url("gelato배경-Recovered.jpg");
+    font-size: 4rem;
+    color:rgb(250, 226, 215);
+    font-weight: bolder;
+    text-align: center;
+    padding: 160px;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:6rem;
+    align-content: center;
+    
+}
+
+h1{font-family: 'Archivo Narrow', sans-serif;
+    font-family: 'Caveat', cursive;
+    text-align: center;
+    color:rgb(153, 105, 51);
+    font-size:3rem;
+    
+
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  
+  #right-column {
+    float: right;
+    width: 60%;
+    padding: 10px;
+    height:fit-content;
+   
+    margin-top:3rem;
+    padding-bottom:2.5rem;
+    padding-top:2.5rem;
+    padding-left:3rem;
+    padding-right:3rem;
+  }
+
+  #left-column{
+    float:left;
+    width:35%;
+    padding:10px;
+    height:fit-content;
+    margin-top:3rem;
+    padding-top:2.5rem;
+  }
+  
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .step{
+    background-color:rgb(244, 205, 187);
+    padding:1rem;
+    padding-top:0.5rem;
+    margin:1.5rem;
+   
+  }
+
+ img{
+    text-align: center;
+    width:70%;
+  margin-left: 15%;  
+  margin-right:10%;
+  margin-top:5%;
+  margin-bottom:5%;
+ }
+
+ #gelatophoto{
+    width:80%;
+    margin:auto;
+    margin-left:30px;
+    padding-bottom:30px;
+ }
+
+ h2{
+    font-family: 'Archivo Narrow', sans-serif;
+font-family: 'Caveat', cursive;
+font-size:2rem;
+ }
+ h3{
+    font-family: 'Archivo Narrow', sans-serif;
+font-family: 'Caveat', cursive;
+ }
