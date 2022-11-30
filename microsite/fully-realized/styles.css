@@ -20,7 +20,7 @@ nav#main-nav ul{
   margin-top:0.em;
   
     padding-left:0.3em;
-    font-size:60px;
+    font-size:45px;
     text-align: center;
     font-family: 'East Sea Dokdo', cursive;
 
@@ -40,7 +40,7 @@ nav#main-nav ul li a{
     margin: 3 10px;
     text-decoration: none;
     transition: all 0.5s;
-    font-size:40px;
+    font-size:35px;
     
    
 }
@@ -73,7 +73,7 @@ a#tools:hover{
     text-align: center;
     font-family: 'East Sea Dokdo', cursive;
 }
-p{  font-size:16.5px;
+p{  font-size:15px;
     line-height:1.5em;
     font-family: 'Noto Serif KR', serif;
 margin-left:10%;
